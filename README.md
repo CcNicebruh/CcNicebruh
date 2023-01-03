@@ -6,6 +6,10 @@
   I'm a JavaScript developer! Also, I respond faster on <a href='https://discord.gg/gAshT82TAg'>Discord</a> ;)
 </h3>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CcNicebruh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="github-readme-streak-stats" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/2048px-No_image.svg.png" width="200"/>
